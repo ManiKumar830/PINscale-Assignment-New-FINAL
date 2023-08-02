@@ -1,7 +1,7 @@
 {
   "homepage": "http://ManiKumar830.github.io/PINscale-Assignment-Repo-FINAL/",
   "name": "nxt-trendz-specific-product-details",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
